@@ -1,0 +1,35 @@
+.login-form .jumbotron {
+  margin: 0;
+  height: 100vh;
+}
+
+.login-form form {
+  margin: 0 30%;
+  height: 250px;
+}
+
+.login-form .help.is-danger {
+  color: #cc0000;
+  padding-left: 3px;
+}
+
+.login-form .form-group label {
+  padding-bottom: 10px;
+}
+
+.login-form .form-group input {
+  margin-bottom: 15px;
+}
+
+.login-form .signup-link {
+  margin: 0 30%;
+}
+
+.login-form .signup-link span {
+  font-size: 18px;
+}
+
+.login-form .signup-link a {
+  font-size: 16px;
+  text-decoration: none;
+}

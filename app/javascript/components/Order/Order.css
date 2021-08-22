@@ -1,0 +1,31 @@
+.orders-page .orders-listing-row {
+  margin: 10% auto;
+}
+
+.orders-page .media {
+  display: flex;
+}
+
+.orders-page .media .media-body {
+  margin: 0 0 0 10px;
+}
+
+.orders-page .table td {
+  vertical-align: middle;
+}
+
+.orders-page .media .media-object {
+  width: 85px !important;
+  height: 90px !important;
+}
+
+.orders-page .media-heading a {
+  color: black;
+  text-decoration: none;
+}
+
+.orders-page .continue-shopping {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}

@@ -1,0 +1,44 @@
+.products-page .products-listing-row {
+  margin: 10% auto;
+}
+
+.products-page .media {
+  display: flex;
+}
+
+.products-page .media .media-body {
+  margin: 0 0 0 10px;
+}
+
+.products-page .table td {
+  vertical-align: middle;
+}
+
+.products-page .table .action {
+  text-align: center;
+}
+
+.products-page .table .action .btn-danger,
+.products-page .table .action .btn-danger .btn-sucess {
+  margin-left: 5px;
+}
+
+.products-page .checkout {
+  width: 100%;
+  display: block;
+}
+.products-page .checkout .btn {
+  width: 160px;
+  float: right;
+  margin-right: 20px;
+}
+
+.products-page .media-heading a {
+  color: black;
+  text-decoration: none;
+}
+
+.products-page .media .media-object {
+  width: 85px !important;
+  height: 90px !important;
+}
